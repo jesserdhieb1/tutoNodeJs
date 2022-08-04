@@ -1,0 +1,23 @@
+{
+  "name": "projet1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alternative-flavor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesserdhieb1/tutoNodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesserdhieb1/tutoNodeJs/issues"
+  },
+  "homepage": "https://github.com/jesserdhieb1/tutoNodeJs#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "loadash": "^1.0.0"
+  }
+}
